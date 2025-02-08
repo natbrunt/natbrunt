@@ -8,15 +8,15 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 ---
 
 ### 🚀 **Current Projects**  
-- [ ] Build a **Client-login-portal** app with TypeScript  
+- [ ] Build a **Article Blog** app with admin privileges using TypeScript  
 - [ ] Improve UI with **Shadcn**  
-- [ ] Optimize my portfolio site for **mobile responsiveness**  
+- [ ] Optimize my nginx server for **streamlining the development process**  
 - [ ] Contribute to an **open-source** project  
 
 ---
 
 ### 🔧 **Tech Stack I'm Working With**  
-- ⚛️ **React / React Native**  
+- ⚛️ **React / NextJS**  
 - 🎨 **Shadcn**  
 - 💻 **TypeScript, JavaScript**   
 - 📂 **Mongoose**  
