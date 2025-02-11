@@ -12,7 +12,7 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 - [ ] Improve UI with **Shadcn**  
 - [ ] Optimize my nginx server for **streamlining the development process**  
 - [ ] Contribute to an **open-source** project  
-
+- my to do list -> https://github.com/natbrunt/dev-todo-readme/blob/main/README.md
 ---
 
 ### 🔧 **Tech Stack I'm Working With**  
