@@ -8,8 +8,8 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 ---
 
 ### 🚀 **Current Projects**  
-- [ ] Build a **Article Blog** app with admin privileges using TypeScript  
-- [ ] Improve UI with **Shadcn**  
+- [ ] Update Articles on my tnsv blog  
+- [ ] Figure out Stripe JS and Google Advertisements  
 - [ ] Optimize my nginx server for **streamlining the development process**  
 - [ ] Contribute to an **open-source** project  
 - my to do list -> https://github.com/natbrunt/dev-todo-readme/blob/main/README.md
@@ -17,7 +17,7 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 
 ### 🔧 **Tech Stack I'm Working With**  
 - ⚛️ **React / NextJS**  
-- 🎨 **Shadcn**  
+- 🎨 **Shadcn, Tailwind css**  
 - 💻 **TypeScript, JavaScript**   
 - 📂 **Mongoose**  
 
