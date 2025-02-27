@@ -8,18 +8,18 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 ---
 
 ### 🚀 **Current Projects**  
-- [ ] Update Articles on my tnsv blog  
+- [ ] Update JavaScript Ecommerce for readability  
 - [ ] Figure out Stripe JS and Google Advertisements  
-- [ ] Optimize my nginx server for **streamlining the development process**  
+- [ ] Optimize my nginx server for **streamlining the development process** (image upload)  
 - [ ] Contribute to an **open-source** project  
 - my to do list -> https://github.com/natbrunt/dev-todo-readme/blob/main/README.md
 ---
 
 ### 🔧 **Tech Stack I'm Working With**  
 - ⚛️ **React / NextJS**  
-- 🎨 **Shadcn, Tailwind css**  
+- 🎨 **CSS, Shadcn, Tailwind css**  
 - 💻 **TypeScript, JavaScript**   
-- 📂 **Mongoose**  
+- 📂 **MongoDb, Mongosh, Mongo Compass, Mongo Atlas**  
 
 ---
 
