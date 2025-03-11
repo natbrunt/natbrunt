@@ -10,7 +10,10 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 ### 🚀 **Current Projects**  
 - [ ] Update JavaScript Ecommerce for readability  
 - [ ] Figure out Stripe JS and Google Advertisements  
-- [ ] Optimize my nginx server for **streamlining the development process** (image upload)  
+- [ ] Build an Electron.JS application to organize delivery biz related emails into a single scrollable page based on date.
+  - [ ] Time jump to specific dates
+  - [ ] All electronic communications and documents are organized by date and available within the application
+  - [ ] Reason for building:  Gmail is not for me, as there are too many seperate strings of communication with nested data that is only available upon click.  I need just one large scrollable application that goes from the first communication to the last.
 - [ ] Contribute to an **open-source** project  
 - my to do list -> https://github.com/natbrunt/dev-todo-readme/blob/main/README.md
 ---
