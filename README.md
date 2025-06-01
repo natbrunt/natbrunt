@@ -8,7 +8,8 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 ---
 
 ### 🚀 **Current Projects**  
-- [ ] Go Dot Game Development => Mobile   
+- [ ] Go Dot Game Development => Mobile
+- [ ] Allow vercel blog to be serverless
 - [ ] Figure out Stripe JS and Google Advertisements
 - [ ] Revisit Frontend invideo.ai project to touch up for screen display compatibility
 - [ ] Contribute to an **open-source** project  
