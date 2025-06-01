@@ -12,8 +12,7 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 - [ ] Allow vercel blog to be serverless
 - [ ] Figure out Stripe JS and Google Advertisements
 - [ ] Revisit Frontend invideo.ai project to touch up for screen display compatibility
-- [ ] Contribute to an **open-source** project  
-- my to do list -> https://github.com/natbrunt/dev-todo-readme/blob/main/README.md
+- [ ] Complete an online course | pass a certification exam
 ---
 
 ### 🔧 **Tech Stack I'm Working With**  
