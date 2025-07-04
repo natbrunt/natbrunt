@@ -9,22 +9,21 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 
 ### 🚀 **Current Projects**  
 - [ ] Go Dot Game Development => Mobile
-- [ ] Allow vercel blog to be serverless
 - [ ] Figure out Stripe JS and Google Advertisements
 - [ ] Revisit Frontend invideo.ai project to touch up for screen display compatibility
 - [ ] Complete an online course | pass a certification exam
 ---
 
 ### 🔧 **Tech Stack I'm Working With**  
-- ⚛️ **React / NextJS**  
+- ⚛️ **React / Vite / NextJS**  
 - 🎨 **CSS, Shadcn, Tailwind css**  
-- 💻 **TypeScript, JavaScript**   
+- 💻 **JavaScript, Git**   
 - 📂 **MongoDb, Mongosh, Mongo Compass, Mongo Atlas**  
 
 ---
 
 ### 📚 **Resources I'm Exploring**  
-- [Scrimba](https://scrimba.com/)  
+- [Oracle](https://Oracle.com/)  
 
 ---
 
