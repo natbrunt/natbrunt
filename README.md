@@ -8,8 +8,7 @@ Welcome to my developer journey! Here's what I'm currently working on and planni
 ---
 
 ### 🚀 **Current Projects**  
-- [ ] Go Dot Game Development => Mobile
-- [ ] Figure out Stripe JS and Google Advertisements
+- [ ] Front-end dev of RTMP server to configure stable livestreaming via web interface
 - [ ] Revisit Frontend invideo.ai project to touch up for screen display compatibility
 - [ ] Complete an online course | pass a certification exam
 ---
