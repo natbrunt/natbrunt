@@ -5,14 +5,14 @@
 ## 📌 **Developer To-Do List**  
 Welcome to my developer journey! Here's what I'm currently working on and planning for the future.
 
----
+<!--
 
 ### 🚀 **Current Projects**  
 - [ ] Front-end dev of RTMP server to configure stable livestreaming via web interface
 - [ ] Revisit Frontend invideo.ai project to touch up for screen display compatibility
 - [ ] Complete an online course | pass a certification exam
 ---
-
+--->
 ### 🔧 **Tech Stack I'm Working With**  
 - ⚛️ **React / Vite / NextJS**  
 - 🎨 **CSS, Shadcn, Tailwind css**  
